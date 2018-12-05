@@ -13,6 +13,24 @@
 
 ## Goals and motivations
 
+The point of the Queen Bee ice breaker is to get as many people in the room talking with each other as possible.
+
+We all know that ice breakers can be cheesey and (sometimes) boring, so the idea behind the Queen Bee is that everyone gets to choose their question of interest and crowd source answers to that question from anyone in the room.
+The skill is in chatting to everyone to find out their experiences and expertise so you can best identify the answers to *future* questions you may have.
+
+Everyone in the room gets into groups of three and designates someone the Queen Bee :honeybee:.
+That person asks their question (1 minute) and then their worker bees (the other two members of the group) buzz around the room asking everyone else for answers (3 minutes).
+When the timer goes the groups reform and the worker bees share back their answers (2 minutes).
+
+After the first round the next person is designated Queen Bee and the process starts again.
+
+One motivation for running this session may be to **nudge people into having particular types of conversations**.
+
+For example, if you really want members of the group to think about how to work collaboratively together in a short period of time, the facilitator could seed that as a suggested question.
+Alternatively if you want the community to think about actions they could take to implement change as a result of the things they learn from the workshop, the facilitator may seed that as a potential starting question.
+
+However, the main goal of the Queen Bee ice breaker is to **get people talking to each other and having fun**.
+By putting such a strict time limit on the conversations, you should leave people wanting more so they continue to chat in coffee breaks for the rest of the event.
 
 ## Materials required
 
@@ -123,8 +141,10 @@ The Queen Bee idea was proposed by [Lauren Cadwallader](https://osc.cam.ac.uk/os
 
 This repository was developed from that idea by [Kirstie Whitaker](https://whitakerlab.github.io/about) for the Alan Turing Institute [Data Study Group](https://www.turing.ac.uk/collaborate-turing/data-study-groups) team in 2018.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" align=right width=15% /></a>
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+### License for re-use
+
+![](https://i.creativecommons.org/l/by/4.0/88x31.png")
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 This means that you can use and re-mix any of the content for any purpose so long as you acknowledge Lauren and Kirstie in whatever you create.</p>
 
 For example, if you make a new version of the queen bee ice breaker you should say somewhere in that project:
