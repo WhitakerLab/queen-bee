@@ -58,7 +58,10 @@ You could either buy a loud buzzer or fog horn, or set up an alarm on your phone
 *This is a sample script that you can use as inspiration for what to say when you're facilitating a queen bee ice breaker.*
 *Please edit as much as you'd like to make it sound like your voice!*
 
-*The words in **bold** are those that could be emphasised.*
+*The words in **bold** are those that could be emphasised for each sentence.*
+
+*The example below is recommended for a data study group at the Turing Institute so it focuses on a group who are coming together for a week and who are interested in data science.*
+*The relevant parts of the script below should be changed if you're running - for example - a one day session on open science.*
 
 > **Good morning everyone!**
 >
@@ -78,6 +81,37 @@ You could either buy a loud buzzer or fog horn, or set up an alarm on your phone
 > You're going to take it in turns (number 1 first, number 2 second etc) being the **Queen Bee** of your little hive.
 >
 > When you're all together in your group, the Queen bee has **1 minute** to ask a question.
+>
+> Then, the worker bees from all of the groups **go buzzing around the room** to find answers to the Queen's question.
+> The bees have **3 minutes** to get the answers.
+>
+> (The queen doesn't just stand around while the worker bees are finding her answers!
+> She can go and **answer other queen's questions**!)
+>
+> Remember that the point of this game is to **meet each other** so don't just chat with the first person you meet.
+> Go and ask the same question of as many people as you can in those 3 minutes!
+>
+> At the end of the 3 minutes of buzzing around the room, the hive have **2 minutes** to get back together and share back the answers they learned.
+> Hopefully they're all interesting!
+> 
+> At the end of those 2 minutes, the Queen Bee switches to the next person and we start from the beginning again.
+> (1 minute to ask a question, 3 minutes to find answers in the room, 2 minutes to share back what the hive learned.)
+>
+> So, the big question you're all wondering is **what sorts of questions should I ask**??
+>
+> The answer is kinda, **whatever you'd like to ask**!
+>
+> Probably having something data science related makes sense, but isn't required.
+> Maybe "How do I run this particular deep learning analysis?"
+> Or "How do I get a job as a data scientist in industry?"
+> Or "How do I finish this darned PhD?!?"
+>
+> One of the questions that I think a lot about is **"How do we get a diverse group of people working together on a brand new project quickly and effectively when we only have a few days to deliver a result?"**
+> I think it's really tough to work collaboratively together so that everyone feels that they're contributing to the success of the team.
+>
+> So if you want to ask questions about **building a team** that's totally fine.
+>
+> But just to reiterate, all questions are welcome!
 
 ## Acknowledgements
 
