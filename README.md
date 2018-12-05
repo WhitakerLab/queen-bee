@@ -50,7 +50,7 @@ The title slide can be downloaded either as a powerpoint file if you'd like to e
 
 A good online timer can be found at http://e.ggtimer.com.
 
-* Open 3 tabs in your browser for [1 minute](https://e.ggtimer.com/1minutes), [3 minutes](https://e.ggtimer.com/3minutes) and [2 minutes](https://e.ggtimer.com/3minutes).
+* Open 3 tabs in your browser for [1 minute](https://e.ggtimer.com/1minutes), [3 minutes](https://e.ggtimer.com/3minutes) and [2 minutes](https://e.ggtimer.com/2minutes).
 * When you need to switch to the next activity, just move to the appropriate tab and then click refresh to start the timer.
 
 Don't worry too much about being exactly on time, its ok to click refresh after you've finished speaking for example, but do try to move the conversations along quickly.
