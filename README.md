@@ -25,8 +25,8 @@
 
 The title slide can be downloaded either as a powerpoint file if you'd like to edit it or a jpg image if you're happy with the standard form.
 
-* Download `pptx` [here]()
-* Download `jpg` [here]()
+* Download `pptx` [here](https://github.com/WhitakerLab/queen-bee/raw/master/QueenBeeInstructions.pptx)
+* Download `jpg` [here](https://raw.githubusercontent.com/WhitakerLab/queen-bee/master/QueenBeeInstructions.jpg) (you need to right click and save the image from the browser to your computer)
 
 ### Online timer
 
