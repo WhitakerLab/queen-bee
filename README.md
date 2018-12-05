@@ -73,13 +73,13 @@ You could either buy a loud buzzer or fog horn, or set up an alarm on your phone
 
 ## Script
 
-*This is a sample script that you can use as inspiration for what to say when you're facilitating a queen bee ice breaker.*
-*Please edit as much as you'd like to make it sound like your voice!*
+This is a sample script that you can use as inspiration for what to say when you're facilitating a queen bee ice breaker.
+Please edit as much as you'd like to make it sound like your voice!
 
-*The words in **bold** are those that could be emphasised for each sentence.*
+The words in **bold** are those that could be emphasised for each sentence.
 
-*The example below is recommended for a data study group at the Turing Institute so it focuses on a group who are coming together for a week and who are interested in data science.*
-*The relevant parts of the script below should be changed if you're running - for example - a one day session on open science.*
+The example below is recommended for a data study group at the Turing Institute so it focuses on a group who are coming together for a week and who are interested in data science.
+The relevant parts of the script below should be changed if you're running - for example - a one day session on open science.
 
 > **Good morning everyone!**
 >
