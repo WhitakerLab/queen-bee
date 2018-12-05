@@ -141,9 +141,8 @@ The Queen Bee idea was proposed by [Lauren Cadwallader](https://osc.cam.ac.uk/os
 
 This repository was developed from that idea by [Kirstie Whitaker](https://whitakerlab.github.io/about) for the Alan Turing Institute [Data Study Group](https://www.turing.ac.uk/collaborate-turing/data-study-groups) team in 2018.
 
-### License for re-use
+### License for re-use ![](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
-![](https://i.creativecommons.org/l/by/4.0/88x31.png)
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 This means that you can use and re-mix any of the content for any purpose so long as you acknowledge Lauren and Kirstie in whatever you create.</p>
 
