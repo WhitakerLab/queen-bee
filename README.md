@@ -58,7 +58,26 @@ You could either buy a loud buzzer or fog horn, or set up an alarm on your phone
 *This is a sample script that you can use as inspiration for what to say when you're facilitating a queen bee ice breaker.*
 *Please edit as much as you'd like to make it sound like your voice!*
 
-Good morning everyone!
+*The words in **bold** are those that could be emphasised.*
+
+**Good morning everyone!**
+
+One of the goals of this week is to get to know each other.
+So we're going to do a little ice breaker!
+
+(Yep! A cheesy cheesy ice breaker!)
+
+It's called the **Queen Bee** and the instructions are up here on the screen.
+
+When I finish speaking (not now!) you're going to get into groups of **three**.
+
+When you're in those groups give each other a number: 1, 2, 3.
+
+(Easy so far, right?)
+
+You're going to take it in turns (number 1 first, number 2 second etc) being the **Queen Bee** of your little hive.
+
+When you're all together in your group, the Queen bee has **1 minute** to ask a question.
 
 ## Acknowledgements
 
