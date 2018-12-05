@@ -2,13 +2,14 @@
 
 *Instructions on how to run a "queen bee" ice breaker exercise* :honeybee:
 
-![](QueenBeeCoverSlide.jpg)
+![](QueenBeeInstructions.jpg)
 
 ### Table of contents
 
 * [Goals and motivations](#goals-and-motivations)
 * [Materials required](#materials-required)
 * [Sample script](#script)
+* [Acknowledgments and license for re-use](#acknowledgements)
 
 ## Goals and motivations
 
@@ -58,3 +59,26 @@ You could either buy a loud buzzer or fog horn, or set up an alarm on your phone
 *Please edit as much as you'd like to make it sound like your voice!*
 
 Good morning everyone!
+
+## Acknowledgements
+
+The Queen Bee idea was proposed by [Lauren Cadwallader](https://osc.cam.ac.uk/osc-team-contacts/professional-activities-osc-staff/lauren-cadwallader) for [OpenCon Cambridge in 2017](https://www.opencon2018.org/opencon_2017_cambridge).
+
+This repository was developed from that idea by [Kirstie Whitaker](https://whitakerlab.github.io/about) for the Alan Turing Institute [Data Study Group](https://www.turing.ac.uk/collaborate-turing/data-study-groups) team in 2018.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+This means that you can use and re-mix any of the content for any purpose so long as you acknowledge Lauren and Kirstie in whatever you create.
+
+For example, if you make a new version of the queen bee ice breaker you should say somewhere in that project:
+
+> This work is based on the Queen Bee ice breaker instructions (https://github.com/WhitakerLab/queen-bee) by Lauren Cadwallader and Kirstie Whitaker and used under a CC-BY 4.0 license.
+
+### Sharing your changes back
+
+If you make any improvements to the ice breaker instructions, please let Kirstie know as she'd love to be able to add those enhancements to this project repository (with acknowledgement!)
+
+You can [open an issue](https://github.com/WhitakerLab/queen-bee/issues) in this github repository or email her on [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+
+Thank you!
