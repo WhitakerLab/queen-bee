@@ -2,14 +2,14 @@
 
 *Instructions on how to run a "queen bee" ice breaker exercise* :honeybee:
 
-![](QueenBeeInstructions.jpg)
-
 ### Table of contents
 
 * [Goals and motivations](#goals-and-motivations)
 * [Materials required](#materials-required)
 * [Sample script](#script)
 * [Acknowledgments and license for re-use](#acknowledgements)
+
+![](QueenBeeInstructions.jpg)
 
 ## Goals and motivations
 
