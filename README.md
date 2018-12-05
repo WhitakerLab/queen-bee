@@ -18,9 +18,9 @@ The point of the Queen Bee ice breaker is to get as many people in the room talk
 We all know that ice breakers can be cheesey and (sometimes) boring, so the idea behind the Queen Bee is that everyone gets to choose their question of interest and crowd source answers to that question from anyone in the room.
 The skill is in chatting to everyone to find out their experiences and expertise so you can best identify the answers to *future* questions you may have.
 
-Everyone in the room gets into groups of three and designates someone the Queen Bee :honeybee:.
-That person asks their question (1 minute) and then their worker bees (the other two members of the group) buzz around the room asking everyone else for answers (3 minutes).
-When the timer goes the groups reform and the worker bees share back their answers (2 minutes).
+Everyone in the room gets into groups of three and **designates someone the Queen Bee** :honeybee:.
+That person **asks their question** (1 minute) and then their worker bees (the other two members of the group) buzz around the room **asking everyone else for answers** (3 minutes).
+When the timer goes the groups reform and the worker bees **share back what they learned** (2 minutes).
 
 After the first round the next person is designated Queen Bee and the process starts again.
 
