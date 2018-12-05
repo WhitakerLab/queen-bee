@@ -109,9 +109,13 @@ You could either buy a loud buzzer or fog horn, or set up an alarm on your phone
 > One of the questions that I think a lot about is **"How do we get a diverse group of people working together on a brand new project quickly and effectively when we only have a few days to deliver a result?"**
 > I think it's really tough to work collaboratively together so that everyone feels that they're contributing to the success of the team.
 >
-> So if you want to ask questions about **building a team** that's totally fine.
+> So if you want to ask questions about **building a team** that would be pretty fun in my opinion!
 >
 > But just to reiterate, all questions are welcome!
+>
+> Ok, **that's enough of me talking!**
+> Go and get into your groups.
+> Give everyone a number 1, 2, 3, and I'll start the timer for the first queen bee to ask her question.
 
 ## Acknowledgements
 
